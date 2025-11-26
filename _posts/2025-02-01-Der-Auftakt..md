@@ -1,6 +1,6 @@
 ---
-title: Der Auftakt
-date: 2025-02-01 10:00:00
+title: Der neue Kraftakt
+date: 2025-04-01 10:00:00
 categories: [Weltbewegendes, Baden-Württemberg]
 tags: [lumpenburg]
 pin: true
