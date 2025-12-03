@@ -35,6 +35,7 @@ Bei der Meldung, dass die Zustellung nicht abgeschlossen werden konnte, erschien
 
 Die Dame am Telefon liess sich jedoch nicht beirren und sagte mir erneut, Sie könne nichts tun, nur XIAOMI könne eine Freigabe des Paketes erteilen. Gut, ich teilte mir mit, dass ich dies rechtlich prüfen lassen werde.
 
+![Desktop View](/assets/media/posts/20251127/dhl-anruf-27-11-25-14-33-uhr.jpg){: width="400" height="270" .w-50 .left}
 => Telefonnachweis
 
 ### Der 2. Anruf bei DHL - Mobbing reloaded
