@@ -31,7 +31,15 @@ Mit der Folge, dass die Sendung wieder zur Zustellbasis zurückgesendet wurde.
 
 ### Bitte zustellen - das Desaster nimmt seinen Lauf
 
+Bei der Meldung, dass die Zustellung nicht abgeschlossen werden konnte, erschien auf dem Smartphone bei der Trackingansicht, der zusätzliche Hinweise, dass ich bitte mit der DHL Kontakt aufnehmen sollte. Diesem Hinweis kam ich nach, zunächst am 27.11.2025 um 14:33 Uhr. Das Gespräch nahm einen sehr komischen Verlauf. Die Dame der DHL sagte mir, dass das Paket bei der Auslieferung beschädigt wurde (durch den Boten) und nun der Versender (XIAOMI) eine erneute Auslieferung absegnen müsste, da dies so in den AGB stehen würde. Ich entgegnete, dass dies absoluter Unfug sei, da mit der Aufgabe an den Frachtführer (DHL) ich der Eigentümer des Paketes sei und es nur die Aufgabe der DHL sei, dies in meinen Besitz zu überführen.
+
+Die Dame am Telefon liess sich jedoch nicht beirren und sagte mir erneut, Sie könne nichts tun, nur XIAOMI könne eine Freigabe des Paketes erteilen. Gut, ich teilte mir mit, dass ich dies rechtlich prüfen lassen werde.
+
+=> Telefonnachweis
+
 ### Der 2. Anruf bei DHL - Mobbing reloaded
+
+
 
 ### XIAOMI ist nicht amused - DHL soll Pakete nicht beschädigen
 
