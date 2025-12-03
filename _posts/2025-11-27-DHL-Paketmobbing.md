@@ -5,7 +5,7 @@ order: 2
 categories: [Systemschädling]
 tags: [Mobbing, DHL]
 pin: false
-description: Die DHL wurde angeblich von oben angewiesen mein Paket zurückzubehalten, weil es "beschädigt" wurde vom Boten!
+description: DHL wurde angeblich von oben angewiesen mein Paket zurückzubehalten, weil es "beschädigt" wurde von dem DHL-Boten!
 image: /assets/media/splash/das-paketmobbing-dhl-wieder-verpackt.jpg
 ---
 
