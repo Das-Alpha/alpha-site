@@ -46,3 +46,7 @@ Es erwies sich als eine sehr gute Idee, das Gespräch wieder durch DHL zu Schulu
 
 ### XIAOMI ist nicht amused - DHL soll Pakete nicht beschädigen
 
+Bei XIAOMI wurde es zunächst leicht skurril, denn ich wendete mich per Chat an den Support. Dies ist der effizienteste Weg, denn so kann man zügiger als per Email und besser dokumentiert als mit einem Telefongespräch alles klären. So war zunächst die Hoffnung.
+
+Nachdem ich es ander KI vorbeigeschafft hatte, nahm eine Person mit mir Kontakt auf. Dieser erklärte ich mein Problem und die Diagnose der Person war, dass ich eine Packstation verwendet habe und XIAOMI nur Privatadressen akzeptiere. Ich erklärte der Person daraufhin, dass auch eine Packstation eine Privatadresse sei und von der DHL. Somit dürften keine Probleme auftreten. Es kam eine schwache weitere Gegenwehr, dass, sofern eine Packstation eine Option sei, XIAOMI dies als Option auf der Webseite anbieten würde. Ich sagte, das ist korrekt, eine Packstation kann man wie jede Adresse in das Formular auf der Website eintragen und somit sei alles in Ordnung.
+
