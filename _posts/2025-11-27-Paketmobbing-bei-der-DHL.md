@@ -1,5 +1,5 @@
 ---
-title: Das Paketmobbing
+title: Paketmobbing bei der DHL
 date: 2025-11-27 10:00:00
 order: 2
 categories: [Systemschädling]
@@ -25,9 +25,13 @@ Es war zunächst eine ganz normale Bestellung bei XIAOMI, der Bestellprozess lie
 
 Am 27.11.2025 erfolgte die Auslieferung und es wurde bereits vorab festgelegt, dass eine Unterschrift nicht notwendig ist und die Sendung einfach in den Briefkasten (Packstation) geliefert werden sollte. Der Verzicht auf die Unterschrift ist - nach meiner Kenntnis - notwendig, damit die Zustellung problemlos an eine Packstation erfolgen kann. Die Zustellung wurde jedoch abgebrochen:
 
-> Der Zustellversuch konnte nicht abgeschlossen werden.27.11.2025 07:18
+> Der Zustellversuch konnte nicht abgeschlossen werden. 27.11.2025 07:18
 
 Mit der Folge, dass die Sendung wieder zur Zustellbasis zurückgesendet wurde.
 
 ### Bitte zustellen - das Desaster nimmt seinen Lauf
+
+### Der 2. Anruf bei DHL - Mobbing reloaded
+
+### XIAOMI ist nicht amused - DHL Pakete nicht beschädigen
 
