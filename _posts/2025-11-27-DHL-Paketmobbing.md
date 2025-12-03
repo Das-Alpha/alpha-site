@@ -36,7 +36,7 @@ Bei der Meldung, dass die Zustellung nicht abgeschlossen werden konnte, erschien
 Die Dame am Telefon liess sich jedoch nicht beirren und sagte mir erneut, Sie könne nichts tun, nur XIAOMI könne eine Freigabe des Paketes erteilen. Gut, ich teilte mir mit, dass ich dies rechtlich prüfen lassen werde.
 
 ![Desktop View](/assets/media/posts/20251127/dhl-anruf-27-11-25-14-33-uhr.jpg){: width="400" height="270" .w-50 .left}
-=> Telefonnachweis
+Man sieht an dieser Stelle schon sehr deutlich, es handelte sich um keinen kurzen Anruf, sondern um einen Anruf, der ca. 8 Minuten dauerte, da man die anfängliche Auswahl und Warteschleife ebenfalls einberechnen muss. Mein Eindruck war zu Anfang schon, ich habe noch nie so einen Blödsinn gehört und meistens liegt man nicht so falsch mit dem ersten Eindruck. Fairerweise muss man anmerken, dass ich in meinem Leben schon weit über 1.000 Pakete erhalten habe und ich daher etwas versiert bin, auch im Umgang mit der DHL.
 
 ### Der 2. Anruf bei DHL - Mobbing reloaded
 
