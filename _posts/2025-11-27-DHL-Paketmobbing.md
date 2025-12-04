@@ -50,7 +50,12 @@ Bei XIAOMI wurde es zunächst leicht skurril, denn ich wendete mich per Chat an 
 
 Nachdem ich es ander KI vorbeigeschafft hatte, nahm eine Person mit mir Kontakt auf. Dieser erklärte ich mein Problem und die Diagnose der Person war, dass ich eine Packstation verwendet habe und XIAOMI nur Privatadressen akzeptiere. Ich erklärte der Person daraufhin, dass auch eine Packstation eine Privatadresse sei und von der DHL. Somit dürften keine Probleme auftreten. Es kam eine schwache weitere Gegenwehr, dass, sofern eine Packstation eine Option sei, XIAOMI dies als Option auf der Webseite anbieten würde. Ich sagte, das ist korrekt, eine Packstation kann man wie jede Adresse in das Formular auf der Website eintragen und somit sei alles in Ordnung.
 
+Nachdem dieser Punkt geklärt war, kamen wir nochmals zu dem beschädigten Paket zurück. XIAOMI bat mich einen schriftlichen Nachweis zu liefern, dass XIAOMI aktiv werden sollte. Ich teilte mit, dass ich rechtliche Zweifel habe, dass XIAOMI überhaupt aktiv werden dürfte, da XIAOMI ordnungsgemäß und laut DHL unbeschädigt das Paket an DHL übergeben hätte. Dies war eine Auffassung die XIAOMI auch teilte und ich merkte ferner an, dass bei einem Telefonat keine schriftliche Besstätigung erfolgt. Der Mitarbeiter von XIAOMI war in diesem Fall entsetzt, dass DHL das Paket beschädigt hatte und bat mich nochmals, dies zu bestätigen. Ich teilte wiederum mit, das ist es, was DHL mir mitgeteilt hatte. Er war nun der Auffassung, dass es ein Skandal sei, wie DHL mit dem Paket umgegangen sei und würde dies weiterleiten.
+
+Der Auffassung von XIAOMI ist nichts hinzuzufügen. An dieser Stelle wurde der Chat beendet, nachdem XIAOMI sich ebenfalls mit DHL in Verbindung setzen wollte. ***Das gesamte Transkript liegt übrigens vor*** - das nur als kleine Anmerkung, da es die Möglichkeit gibt, dies nach Beendigung herunterzuladen.
+
 ### Die Lösung I - Whatsapp
+
 
 Umlieferug
 
