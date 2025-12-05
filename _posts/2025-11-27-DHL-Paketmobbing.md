@@ -66,7 +66,7 @@ Gut, ich dachte mir, wieso nicht Whatsapp mal testen, da es Gerüchte gab, dass 
 
 Was jetzt kommt wird schlicht so peinlich, aber man kann nichts machen. Gut, so fängt es an:
 
-
+![Desktop View](/assets/media/posts/20251127/dhl-whatsapp-01.jpg){: width="400" height="394" .w-50 .left}
 
 Umlieferug
 
