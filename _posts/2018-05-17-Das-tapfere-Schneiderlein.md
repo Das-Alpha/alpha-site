@@ -15,4 +15,5 @@ Manche Tage fangen gut an, besonders dieser! Ich will nichts beschönigen, es gi
 
 ## Vorglühen bei Nutti-Mutti
 
-Ähm ja, doch in Tallinn steppt der Bär und der Spaß war schon vorgebucht!
+Ähm ja, doch in Tallinn steppt der Bär und der Spaß war schon vorgebucht! Es ging halt nur nicht so ganz wie geplant ab.
+
