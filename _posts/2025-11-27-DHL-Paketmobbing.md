@@ -112,7 +112,22 @@ Ich kann aber schon so viel sagen, es ist einfach nur das, was wir als einen [Sc
 Ein normaler Mensch würde an sich vermutlich zweifeln, aber bei uns in Schwaben ist das total normal. Betrachten Sie es bitte aus dieser Warte, bei uns ist auch [Stuttgart 21](https://de.wikipedia.org/wiki/Stuttgart_21){:target="_blank"} im Jahre 2025 nur eine kleine Nebensächlichkeit.
 ![Desktop View](){: .w-100 .normal}
 
-
 ### Die Lösung II - die Mobbingursache
 
+Die Auflösung war eindeutig. Nachdem ich die Entnahme mit einer Videoaufzeichnung dokumentiert hatte, erhielt ich ein weitgehend unbeschädigtes Paket und die Pakete im Inhalt waren absolut einwandfrei:
+
+![Desktop View](/assets/media/posts/20251127/dhl-nicht-beschaedigt-sondern-neu-verpackt.jpg){: width="400" height="620" .w-50 .left}
+Das Paket war nicht beschädigt, sondern einfach von der DHL geöffnet und neu verpackt. Das ist einwandfrei (visuell) nachvollziehbar.
+
+Wieso hat man dies getan und wieso erfolgte dieser Aufwand?!
+
+Offensichtlich wollte man, dass das Paket einfach wieder an XIAOMI zurückgeht und die Pakete darin waren immer noch versiegelt. Es sollte wohl eine Machtdemonstration sein - mehr nicht.
+
+Alles daran war einfach nur skuril, auch die Telefongespräche und die Begründung hatte zu keinem Zeitpunkt standgehalten, aus diesem Grund erfolgte wohl die Nachlieferung auch an die Packstation, obwohl eine Filiale ausgewählt wurde.
+
+Alles daran ist einfach nur absurd - ich kann es einfach nur als eine mißglückte Machtdemonstration beschreiben, die schief ging, da Whatsapp einen technische und effiziente ***Lösung*** ermöglichte.
+![Desktop View](){: .w-100 .normal}
+
 ## Fazit
+
+Was ist möglich?!
