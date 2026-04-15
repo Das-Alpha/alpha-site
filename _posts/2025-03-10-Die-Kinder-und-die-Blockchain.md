@@ -1,7 +1,6 @@
 ---
 title: Die Kinder und die Blockchain
 date: 2025-03-10 10:00:00
-order: 1
 categories: [Weltbewegendes, Baden-Württemberg]
 tags: [lumpenburg]
 pin: false
