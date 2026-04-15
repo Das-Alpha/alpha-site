@@ -5,7 +5,7 @@ categories: [(Un)Recht]
 tags: [Justiz, Unrechtsstaat]
 pin: false
 description: So wird einem das Recht in Deutschland verweigert - kein Anwalt übernimmt das Mandat...
-image: /assets/media/splash/die-oster-schlammschlacht.jpg
+image: /assets/media/splash/rechtliches-gehoer-nicht-fuer-dich.jpg
 ---
 
 ## Vorwort
