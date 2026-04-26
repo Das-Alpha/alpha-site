@@ -1,5 +1,5 @@
 ---
-title: Breaking News - Uro Huso United hat Probleme
+title: Breaking News - Das Aus für Uro Huso United
 date: 2026-04-14 10:00:00
 categories: [(Un)Recht]
 tags: [Justiz, Unrechtsstaat]
