@@ -1,7 +1,6 @@
 ---
 title: Das tapfere Schneiderlein
 date: 2018-05-17 10:00:00
-order: 2
 categories: [Spermien]
 tags: [AllesKannNichtsMuss, Golddiggerinnen]
 pin: false

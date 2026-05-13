@@ -1,7 +1,6 @@
 ---
 title: Systemschädling vs. Volksschädling
 date: 2025-11-30 10:00:00
-order: 2
 categories: [Systemschädling]
 tags: [Volksschädling]
 pin: false

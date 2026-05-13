@@ -14,7 +14,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Das Alpha # the main title
+title: Das Alpha # Title
 
 tagline: Der Systemschädling Nr. 1! Stets gejagd, sehr bissig und kein Teamplayer! # it will display as the subtitle
 
@@ -188,7 +188,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: false 
+      comments: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
@@ -198,7 +198,7 @@ defaults:
 
 plugins:
   - jemoji
-  
+
 sass:
   style: compressed
 
