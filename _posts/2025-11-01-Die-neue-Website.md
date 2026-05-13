@@ -20,3 +20,11 @@ Ich weise explizit auf den Punkt hin, auf den ebenfalls sehr deutlich unter dem 
 > Auch wenn etwas recht und billig erscheint, muss es nicht unproblematisch sein!
 
 Daher, sollten Sie von der Thematik möglicherweise betroffen sein, dann sichern Sie sich das aktuelle Archiv als [.zip](https://github.com/Das-Alpha/just-my-two-cents/archive/refs/heads/master.zip) so schnell wie möglich per Klick!
+
+> **Bleiben Sie wachsam und lassen Sie sich nicht von wohlklingenden Parolen blenden – die Wahrheit liegt oft im Detail verborgen.**
+
+> **In diesem Sinne: Augen auf, bevor der Staat zuschlägt – und behalten Sie stets ein gesundes Misstrauen.**
+
+Das sind 2 Sätze, die ausnahmsweise nicht von mir stammen, die Sie jedoch dennoch beherzigen sollten!
+
+Ich versuche es mal mit autocomplete, um die Seite weiter zu optimieren, damit Sie schneller an die Informationen kommen, die Sie benötigen. Es ist nicht so, dass ich das nicht schon vorher hatte, aber es ist jetzt deutlich besser und schneller geworden.
